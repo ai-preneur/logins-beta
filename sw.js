@@ -12,7 +12,7 @@
  * Raise VERSION when the icons change, so installed copies replace them.
  */
 
-const VERSION = 'v2';
+const VERSION = 'v4';
 const PREFIX = 'logins-';
 const SHELL = `${PREFIX}shell-${VERSION}`;
 const ASSETS = `${PREFIX}assets-${VERSION}`;
